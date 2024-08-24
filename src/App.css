@@ -1,0 +1,39 @@
+body{
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(47, 141, 223);
+}
+.container{
+  display: flex;
+  flex-direction: column;
+}
+h2{
+  color: #f6f6f6;
+}
+input{
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+}
+button{
+  border-radius: 8px;
+  margin: 5px;
+  outline: none;
+  border: none;
+  padding: 5px;
+  font-size: 14px;
+  background-color: green;
+  color: #f6f6f6;
+}
+ul{
+  list-style: none;
+  color: #f6f6f6;
+}
+li{
+  padding: 5px;
+}
